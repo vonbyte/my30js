@@ -1,5 +1,8 @@
 # Changelog
 
+## 2021-04-17 v4.0.0: Finished exercise 04 Array Cardio v1
+- Add Basic Array Functions
+
 ## 2021-04-09 v3.0.0: Finished exercise 03 CSS Variables
 - Add CSS variables
 - Add JS adjust variables function
