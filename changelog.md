@@ -1,5 +1,10 @@
 # Changelog
 
+## 2021-04-18 v5.0.0: Finished exercise 06 Type ahead
+- Add ajax logic
+- Add display suggestions logic
+- Add formatting functions for highlighting and numbers
+
 ## 2021-04-17 v5.0.0: Finished exercise 05 Flex Panels
 - Add CSS flexbox logic
 - Add JavaScript toggler functions
