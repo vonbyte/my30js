@@ -1,5 +1,9 @@
 # Changelog
 
+## 2021-04-17 v5.0.0: Finished exercise 05 Flex Panels
+- Add CSS flexbox logic
+- Add JavaScript toggler functions
+
 ## 2021-04-17 v4.0.0: Finished exercise 04 Array Cardio v1
 - Add Basic Array Functions
 
