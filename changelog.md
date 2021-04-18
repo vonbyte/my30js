@@ -1,5 +1,8 @@
 # Changelog
 
+## 2021-04-18 v4.0.0: Finished exercise 07 Array Cardio v2
+- Add More Array Functions
+
 ## 2021-04-18 v5.0.0: Finished exercise 06 Type ahead
 - Add ajax logic
 - Add display suggestions logic
